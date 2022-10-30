@@ -1,0 +1,10 @@
+Unused/
+.*
+!/.gitignore
+__pycache__/
+SB*
+Data/
+models/
+iPhone.MOV
+iPhone2.MOV
+multipage_tiffs/
